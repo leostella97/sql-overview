@@ -1,5 +1,5 @@
 # SQL
-
+ 
 <b>SQL (Structured Query Language)</b> is a standard language used for <i>managing relational databases</i>. It was first developed in the 1970 and is now widely used by organizations of all sizes and across all industries. SQL is used to create and modify databases, as well as search for and retrieve specific data from them. It is also used to <i>manage user access to databases</i> and <i>to ensure that data is stored securely</i>. SQL is an important tool for analysts, database administrators, and software developers, as it allows them to efficiently manage large amounts of data and organize it in way that is easy to use and understand. Due to its widespread use, knowledge of SQL is highly in the tech industry.
 
 ## Introduction to SQL
