@@ -1,1 +1,11 @@
 # SQL Visão Geral
+
+<b>Idiomas</b>
+<br>
+<a href="#">• Português</a>
+<br>
+<a href="#">• English</a>
+<br><br>
+<b>Roadmap/Roteiro</b>
+<br>
+<img src="https://github.com/leostella97/sql-overview/blob/main/img/sql_mental-map.png?raw=true">
