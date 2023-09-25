@@ -82,3 +82,23 @@ Restrições SQL são regras aplicadas a uma tabela para garantir a precisão e 
 ### Restrição NOT NULL
 
 A restrição NOT NULL é um recurso importante do SQL que garante que uma coluna não possa ter um valor nulo. Esta restrição pode ser aplicada no momento da criação de uma tabela, especificando NOT NULL para uma coluna específica ou alterando uma tabela existente usando a instrução ALTER TABLE. Por esta restrição, garante que os dados da coluna sejam sempre válidos e evita quaisquer problemas ou erros causados pelos dados de ausência. Valores NULL podem causar problemas para cálculos, consultas e relatórios. Como tal, a restrição NOT NULL garante a integridade e precisão dos dados, tornando-a uma ferramenta valiosa para administradores de banco de dados.
+
+#### Garante que uma coluna não contenha um valor nulo.
+
+Um aspecto importante do SQL é sua capacidade de garantir que uma coluna dentro de uma tabela não tenha um valor nulo. Isso ocorre porque valores nulos podem causar problemas ao tentar consultar e manipular dados. Ao impedir valores em uma coluna, o SQL ajuda a garantir a integridade e consistência dos dados armazenados em um banco de dados. Isso pode ser conseguido através do uso de restrições, como a restrição NOT NULL, que especifica que uma coluna deve ter um valor em cada linha. Ao impor tais restrições, garante que os dados dentro de um banco de dados sejam precisos e confiáveis, o que é crucial para qualquer aplicação que dependa desses dados.
+
+### Restrição única
+
+Uma restrição UNIQUE é uma restrição que garante que os valores em uma determinada coluna ou grupo de colunas sejam únicos ou distintos. É que não existem valores duplicados na coluna ou grupo de colunas. As restrições UNIQUE são frequentemente usadas como um meio de impor a integridade dos dados e prevenir dados que poderiam resultar em erros ou consultas incorretas ao banco de dados. Restrições exclusivas podem ser aplicadas a uma única coluna ou a múltiplas colunas, proporcionando flexibilidade em termos dos dados que podem ser armazenados nelas. No SQL, as restrições UNIQUE podem ser adicionadas às tabelas com o comando CREATE ou ALTER TABLE.
+
+### Restrição PRIMARY KEY
+
+Uma restrição PRIMARY KEY é um tipo de restrição de banco de dados que identifica exclusivamente cada registro em uma tabela. É um componente crucial dos bancos de dados, pois ajuda a manter a integridade e consistência dos dados. A chave primária deve ser exclusiva e não pode conter valores nulos, para que não haja dois registros na tabela idênticos. Freqüentemente, é usado como ponto de referência para outras tabelas no banco de dados e pode ser usado para impor relacionamentos entre tabelas. a chave primária pode ser criada em uma ou mais colunas de uma tabela e pode ser um valor real da coluna ou um valor gerado automaticamente. No geral, a restrição de chave primária desempenha um papel crítico no projeto de bancos de dados e na garantia da precisão e confiabilidade dos dados armazenados.
+
+#### Usado para identificar exclusivamente cada registro em uma tabela.
+
+SQL, ou Linguagem Estruturada, é uma linguagem de programação usada para gerenciar dados relacionais. Um dos principais recursos do SQL é a capacidade de identificar exclusivamente cada registro em uma tabela usando uma chave primária. Esta chave primária garante que cada registro na tabela seja distinto e possa ser atualizado com base em seu identificador exclusivo. Em bancos de dados relacionais, as tabelas são relacionadas entre si com base nestes primários, permitindo consultas e análises complexas de dados. A chave primária pode ser composta por uma ou múltiplas colunas em uma tabela, dependendo do design do banco de dados. No geral, a chave primária é um aspecto essencial do SQL e da manutenção da integridade dos dados nos bancos de dados.
+
+## Conclusão
+
+Concluindo, SQL é uma ferramenta essencial para gerenciamento e manipulação de dados no mundo moderno. a capacidade de escrever consultas e conjuntos de dados complexos tornou-o uma escolha popular entre desenvolvedores e analistas. Com SQL, as empresas podem rastrear e gerenciar informações de clientes, dados, registros financeiros e muito mais. Quer se trate de uma pequena startup ou de uma empresa multinacional, o uso de SQL tornou-se vital para tomar decisões de negócios informadas. Com a ascensão do big data e a necessidade crescente de armazenar grandes volumes de informações, espera-se que o SQL continue a ser uma ferramenta crítica nos próximos anos. À medida que a tecnologia continua a evoluir, o valor do SQL só continuará a aumentar à medida que as empresas procuram formas de aproveitar os seus dados.
