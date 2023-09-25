@@ -25,3 +25,44 @@ SQL (Structured Query Language é uma linguagem amplamente usada para gerenciar 
 ## Comandos SQL básicos
 
 SQL (Structured Query Language é uma linguagem de programação usada para gerenciar e manipular bancos de dados relacionais. Existem vários SQL básicos que permitem aos programadores criar, modificar e recuperar dados de um banco de dados. Esses comandos incluem SELECT, INSERT, UPDATE, DELETE, CREATE, e. O comando SELECT é usado para recuperar dados de um banco de dados, enquanto o comando INSERT é usado para adicionar novos dados a um banco de dados. O comando UPDATE dados existentes em um banco de dados, e o comando DELETE remove dados de um banco de dados. CREATE é usado para criar bancos de dados e tabelas dentro de um banco de dados, enquanto DROP é usado para excluí-los. Compreender esses comandos SQL básicos é essencial para trabalhar com bancos de dados e gerenciar dados.
+
+### comando SELECIONAR
+
+O comando SELECT é um dos comandos mais importantes do SQL. É usado para recuperar dados de uma ou mais tabelas do banco de dados. O comando permite ao usuário especificar uma ou mais colunas de dados a serem recuperadas, bem como condições que devem ser atendidas para que os dados apareçam nos resultados. O comando SELECT é altamente flexível, pode ser usado para combinar dados de várias tabelas, classificá-los de várias maneiras e executar os dados retornados. No geral, o comando SELECT é uma parte fundamental e é amplamente utilizado em praticamente todos os tipos de aplicativos de banco de dados.
+
+#### Usado para recuperar dados de uma ou mais tabelas em um banco de dados.
+
+SQL, ou Structured Query Language, é uma programação popular usada no gerenciamento e manipulação de bancos de dados relacionais. Ele permite que os desenvolvedores modifiquem e recuperem dados de várias tabelas em um banco de dados. SQL é comumente usado para várias tarefas, como análise, mineração de dados e inteligência de negócios. Uma de suas funções principais é a recuperação de dados, o que envolve consultar ou mais tabelas para extrair informações específicas. A instrução SQL SELECT é usada para recuperar dados de ou mais tabelas em um banco de dados. Ele permite que os desenvolvedores especifiquem as colunas que desejam recuperar, bem como qualquer coluna desejada para filtrar os resultados. Compreender como recuperar dados de forma eficaz é uma habilidade fundamental para desenvolvedores que trabalham com bancos de dados
+
+### comando INSERT
+#### Usado para inserir novos dados em uma tabela.
+
+O comando INSERT é um componente do SQL, usado para inserir novos dados em uma tabela. Ao fornecer os dados necessários, o comando permite que os usuários adicionem novas informações com eficiência às tabelas de seu banco de dados. Este comando tem muitas aplicações úteis, como adicionar novos clientes a um sistema CRM, atualizar informações de produtos em uma plataforma de comércio eletrônico ou registrar detalhes de funcionários em um banco de dados de recursos humanos. A flexibilidade do comando INSERT o torna uma ferramenta importante para gerenciar e manipular dados em bancos de dados SQL. Com sua capacidade de adicionar rapidamente e adicionar novas informações a uma tabela, o comando INSERT desempenha um papel importante no bom funcionamento de empresas e organizações.
+
+### Comando UPDATE
+
+O comando UPDATE é uma instrução SQL usada para modificar dados existentes em uma tabela. Permite alterar um ou vários em uma única linha ou em várias linhas de uma vez. O comando UPDATE funciona pelo nome da tabela seguido da cláusula SET que indica o campo modificado e seu novo valor. A cláusula WHERE é opcional, mas recomendada, pois permite ao usuário especificar quais linhas com base em um conjunto de condições O comando é versátil e pode ser usado em uma ampla variedade de aplicações, como alteração do status do pedido de um cliente, atualização de níveis de estoque, atualização de informações de funcionários , e mais.
+
+#### Usado para modificar dados existentes em uma tabela.
+
+SQL é uma linguagem de computador comum usada para gerenciar e manipular bancos de dados relacionais. Uma das principais funcionalidades do SQL é modificar dados existentes em uma tabela. Com comandos SQL, os usuários podem atualizar, excluir ou inserir dados em um banco de dados. Esse recurso é especialmente adequado para empresas que dependem de grandes bancos de dados para suas operações diárias. Ao modificar os dados existentes, as empresas podem garantir que os seus dados estão atualizados, um aspecto crucial do gerenciamento de dados no mundo acelerado. Além disso, os comandos SQL podem ser usados para especificar um determinado intervalo de dados, um subconjunto de informações dentro de uma tabela, permitindo que os usuários façam modificações direcionadas em seus dados.
+
+### comando DELETE
+
+O comando DELETE é uma instrução SQL poderosa que permite aos usuários remover linhas específicas de dados de uma tabela. Isto é particularmente útil: os dados não são mais necessários ou foram inseridos incorretamente. O comando DELETE permite aos usuários determinar quais linhas excluir com base em determinadas condições, como um valor em uma coluna específica. Deve-se considerar cuidadosamente antes de executar um comando DELETE, pois ele armazena permanentemente dados do banco de dados. Normalmente é recomendado fazer backup do banco de dados antes de executar qualquer comando DELETE para evitar perda acidental de dados.
+
+#### Usado para remover dados de a.
+
+SQL é uma linguagem versátil que permite a criação, manipulação e gerenciamento de bancos de dados relacionais. Um recurso essencial do SQL é remover dados de um banco de dados. O comando “DELETE” é utilizado para remover dados de uma ou mais tabelas, permitindo aos usuários limpar as tabelas garantindo que elas contenham apenas as informações relevantes. O comando pode ser usado com ou sem, dependendo dos requisitos do usuário. No entanto, deve-se ter cuidado ao usar o comando DELETE para evitar a perda acidental de dados críticos. Como resultado, é recomendado criar um backup das tabelas antes de usar o comando DELETE. No geral, o comando DELETE é uma ferramenta poderosa frequentemente usada em SQL para melhorar o desempenho e a eficiência de.
+
+## Comandos SQL avançados
+
+Comandos SQL avançados referem-se a um conjunto de funcionalidades usadas para gerenciar e manipular conjuntos de dados grandes e complexos. Esses comandos fornecem uma ampla gama de recursos que permitem aos usuários refinar suas consultas, criar cálculos e realizar análises de dados. Algumas das mais comumente usadas incluem subconsultas, JOINS, UNION, INTERSECT e EXCEPT. Além disso, comandos SQL avançados fornecem recursos estendidos que permitem aos usuários otimizar o desempenho da consulta, alterar o conteúdo da tabela e controlar privilégios de dados. Ao aproveitar esses comandos, os profissionais de banco de dados podem desenvolver soluções de dados eficientes e otimizadas que geram valor para organizações empresariais.
+
+### comando JOIN
+
+O comando JOIN é um recurso do SQL que permite aos usuários combinar dados de várias tabelas em um conjunto de resultados consolidado. Isto é particularmente útil para consultar grandes bancos de dados relacionais onde as informações estão espalhadas por várias tabelas. O comando funciona combinando linhas em duas ou mais tabelas com base em uma coluna ou chave comum Existem diferentes tipos de comandos JOIN disponíveis no SQL, incluindo JOIN, LEFT JOIN, RIGHT JOIN e FULL OUTER JOIN Cada tipo de comando JOIN tem seu próprio sintaxe e uso específicos, mas todos têm o mesmo objetivo de fornecer aos usuários uma visão mais clara e abrangente de seus. Compreender como usar efetivamente o comando JOIN pode melhorar muito a capacidade do usuário de manipular dados em SQL.
+
+#### Usado para combinar dados de duas ou mais tabelas com base em uma coluna relacionada.
+
+SQL é uma linguagem de programação usada principalmente para gerenciar e organizar bancos de dados relacionais. Uma coisa importante do SQL é sua capacidade de processar dados de duas ou mais tabelas com base em uma coluna. Este processo é conhecido como join e ajuda a criar uma visão mais abrangente dos dados armazenados em diferentes tabelas. Um dos benefícios das junções SQL é que elas permitem que os dados sejam recuperados de vários, sem a necessidade de duplicar dados ou criar consultas complexas. SQL são comumente usados em análise de dados e relatórios, permitindo aos usuários manipular grandes quantidades de dados de forma rápida e eficiente. Compreender SQL junta-se a uma habilidade essencial para quem trabalha com bancos de dados relacionais.

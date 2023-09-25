@@ -34,7 +34,8 @@ The SELECT command is one the most important commands in SQL. It is used to retr
 
 SQL, or Structured Query Language, is a popular programming used in managing and manipulating relational databases. It allows developers to, modify, and retrieve data from multiple tables within a database. SQL is commonly for various tasks such as analysis, data mining, and business intelligence. One of its primary functions is retrieving data, which involves querying or more tables within the to extract specific information. The SQL SELECT statement is used to retrieve data from or more tables in a database. It allows developers to specify columns they want to retrieve, as well as any desired to filter the results. Understanding how to effectively retrieve data through is a fundamental skill for developers working with databases
 
-### INSERT command#### Used to insert new data into a table.
+### INSERT command
+#### Used to insert new data into a table.
 
 The INSERT command is a component of SQL, used to insert new data into a table. By providing the necessary data and, the command allows users to efficiently add new information to their database tables. This command has many useful applications, such as adding new customers a CRM system, updating product information on an e-commerce platform, or recording employee details in a human resources database. The flexibility the INSERT command makes it an important tool for managing and manipulating data within SQL databases. With its ability to quickly and add new information to a table, the INSERT command plays a role in the smooth operation of businesses and organizations.
 
