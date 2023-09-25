@@ -66,3 +66,19 @@ O comando JOIN é um recurso do SQL que permite aos usuários combinar dados de 
 #### Usado para combinar dados de duas ou mais tabelas com base em uma coluna relacionada.
 
 SQL é uma linguagem de programação usada principalmente para gerenciar e organizar bancos de dados relacionais. Uma coisa importante do SQL é sua capacidade de processar dados de duas ou mais tabelas com base em uma coluna. Este processo é conhecido como join e ajuda a criar uma visão mais abrangente dos dados armazenados em diferentes tabelas. Um dos benefícios das junções SQL é que elas permitem que os dados sejam recuperados de vários, sem a necessidade de duplicar dados ou criar consultas complexas. SQL são comumente usados em análise de dados e relatórios, permitindo aos usuários manipular grandes quantidades de dados de forma rápida e eficiente. Compreender SQL junta-se a uma habilidade essencial para quem trabalha com bancos de dados relacionais.
+
+#### Usado para agrupar dados com base em uma coluna especificada.
+
+Agrupar dados em SQL é uma prática comum ao realizar consultas complexas. Ele permite resumir e agregar dados com base em uma coluna, fornecendo insights valiosos sobre padrões e tendências no conjunto de dados. Ao agrupar os dados, você pode calcular facilmente os valores médios, de contagem e mínimos para uma determinada coluna. Isso é feito usando a cláusula SQL 'GROUP BY', que particiona os dados em grupos com base em um valor especificado. A saída resultante agrupa os dados pela coluna escolhida, fornecendo um resumo claro e conciso das informações. A cláusula 'GROUP' é uma função essencial em SQL, permitindo aos usuários analisar e analisar dados de forma eficiente
+
+### comando ORDER BY
+
+O comando ORDER BY é um recurso essencial do SQL, uma linguagem de gerenciamento usada para organizar a recuperação de dados de bancos de dados relacionais. É usado para classificar os registros retornados em uma ordem específica, como crescente ou decrescente. O comando ORDER BY pode ser usado com multiple para fornecer uma ordem de classificação mais complexa e também pode classificar dados sem distinção entre maiúsculas e minúsculas. É benéfico para analistas de dados, pois fornece mais controle sobre a ordenação dos resultados da consulta. Além disso, quando usado em combinação com outros comandos SQL, como SELECT, JOIN ou WHERE, o comando ORDER BY pode tornar consultas complexas eficientes e precisas.
+
+#### Usado para classificar dados em ordem crescente ou decrescente## Restrições SQL
+
+Restrições SQL são regras aplicadas a uma tabela para garantir a precisão e consistência dos dados. Uma das restrições mais comumente usadas é a restrição "ORDER BY", que é usada para classificar os dados em ordem crescente ou decrescente. Esta restrição é usada em combinação com a instrução para recuperar dados de uma tabela em uma ordem específica. A restrição "BY" pode ser aplicada a qualquer coluna de uma tabela, incluindo numérica, texto e colunas. Ao classificar os dados em uma ordem específica, fica mais fácil localizar e analisar informações específicas. Este é um recurso poderoso e comumente usado em sistemas de banco de dados.
+
+### Restrição NOT NULL
+
+A restrição NOT NULL é um recurso importante do SQL que garante que uma coluna não possa ter um valor nulo. Esta restrição pode ser aplicada no momento da criação de uma tabela, especificando NOT NULL para uma coluna específica ou alterando uma tabela existente usando a instrução ALTER TABLE. Por esta restrição, garante que os dados da coluna sejam sempre válidos e evita quaisquer problemas ou erros causados pelos dados de ausência. Valores NULL podem causar problemas para cálculos, consultas e relatórios. Como tal, a restrição NOT NULL garante a integridade e precisão dos dados, tornando-a uma ferramenta valiosa para administradores de banco de dados.

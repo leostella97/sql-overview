@@ -81,7 +81,7 @@ SQL constraints are rules that applied to a table to ensure the accuracy and con
 
 ### NOT NULL constraint
 
-The NOT NULL constraint is an important feature of SQL that ensures a column cannot have a nullempty) value. This constraint be applied at the time of creating a table by specifying NOT NULL for a specific column or altering an existing table using ALTER TABLE statement. By this constraint, it ensures that the data in the column is always valid and avoids any issues or errors caused by the absence data. NULL values can problems for computations, queries, and reports. As such, the NOT NULL constraint ensures data integrity and accuracy, making it valuable tool for database administrators and.
+The NOT NULL constraint is an important feature of SQL that ensures a column cannot have a nullempty) value. This constraint be applied at the time of creating a table by specifying NOT NULL for a specific column or altering an existing table using ALTER TABLE statement. By this constraint, it ensures that the data in the column is always valid and avoids any issues or errors caused by the absence data. NULL values can problems for computations, queries, and reports. As such, the NOT NULL constraint ensures data integrity and accuracy, making it valuable tool for database administrators.
 
 #### Ensures a column does not contain a null value.
 
