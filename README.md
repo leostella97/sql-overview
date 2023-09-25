@@ -2,9 +2,9 @@
 
 <b>Idiomas</b>
 <br>
-<a href="/sql_en-us.md">• Português</a>
+<a href="#">• Português</a>
 <br>
-<a href="#">• English</a>
+<a href="/sql_en-us.md">• English</a>
 <br><br>
 <b>Roadmap/Roteiro</b>
 <br>
