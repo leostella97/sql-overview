@@ -2,7 +2,7 @@
 
 <b>Idiomas</b>
 <br>
-<a href="#">• Português</a>
+<a href="/sql_en-us.md">• Português</a>
 <br>
 <a href="#">• English</a>
 <br><br>
