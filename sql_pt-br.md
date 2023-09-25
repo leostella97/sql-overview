@@ -1,3 +1,12 @@
 #SQL
 
 <b>SQL (Structured Query Language)</b> é uma linguagem padrão usada para <i>gerenciar bancos de dados relacionais</i>. Foi desenvolvido pela primeira vez em 1970 e agora é amplamente utilizado por organizações de todos os tamanhos e em todos os setores. SQL é usado para criar e modificar bancos de dados, bem como pesquisar e recuperar dados específicos deles. Também é usado para <i>gerenciar o acesso do usuário aos bancos de dados</i> e <i>garantir que os dados sejam armazenados com segurança</i>. SQL é uma ferramenta importante para analistas, administradores de banco de dados e desenvolvedores de software, pois permite gerenciar com eficiência grandes quantidades de dados e organizá-los de maneira fácil de usar e entender. Devido ao seu uso generalizado, o conhecimento de SQL é altamente valorizado na indústria de tecnologia.
+
+## Introdução ao SQL
+
+SQL, ou Linguagem Estruturada, é uma <i>linguagem de programação usada para gerenciar bancos de dados relacionais</i>. Foi desenvolvido pela primeira vez na década de 0 pela <b>IBM</b> e desde então se tornou a linguagem padrão para gerenciamento de bancos de dados em todos os setores. SQL é usado para tarefas como adicionar, modificar e selecionar dados de um banco de dados, bem como criar e modificar tabelas e visualizações. Alguns usos comuns do SQL incluem o gerenciamento de registros financeiros de dados de clientes e informações de inventário. Embora o SQL possa ser complexo e ter uma curva de aprendizado acentuada, ele também é uma ferramenta poderosa para grandes quantidades de dados e para melhorar processos. Este artigo fornecerá uma introdução ao SQL e seus recursos.
+
+### Definição de SQL
+
+SQL (Structured Query Language é uma linguagem de programação usada para gerenciar e manipular o gerenciamento de banco de dados relacional <b>(SGBD)</b>. Ela se desenvolveu na década de 1970 e rapidamente se tornou a linguagem padrão para SGBD. SQL permite aos usuários modificar e modificar tabelas, adicionar , excluir e atualizar dados em um e recuperar dados com base em determinados requisitos. Consiste em comandos usados para realizar operações de banco de dados, incluindo criação, leitura, atualização e exclusão de dados. O SQL é capaz de realizar consultas complexas, tornando-o particularmente bem -adequado para uso em análise de dados. Sua facilidade e ampla disponibilidade contribuíram para sua popularidade, tornando-o uma habilidade essencial para bancos de dados e desenvolvedores.
+
